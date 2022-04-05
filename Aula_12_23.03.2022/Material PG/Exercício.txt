@@ -1,0 +1,5 @@
+Exercício
+Para praticar a análise de um JSON, vamos utilizar o seguinte repositório e resolver o problema encontrado nos comentários do JS.
+
+Link do repositório:
+https://github.com/PedagogiaDHBrasil/DH-FrontEnd2-Praticando-JSON
