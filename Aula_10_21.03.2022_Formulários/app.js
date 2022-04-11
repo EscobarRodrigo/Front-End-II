@@ -1,6 +1,6 @@
 
 // 1. Seleção do formulário
-var formulario = document.querySelector("#formularioDeCadastro");
+var formulario = document.querySelector("formularioDeCadastro");
 
 //2. Seleção do campo
 
